@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lorenzo~!
 - 👀 I’m interested in software and web development, travel, and video games
 - 🌱 I’m currently learning JS, C#, Spanish, German, Italian
-- 💞️ I’m looking to collaborate on Unity based projects or Web Apps
+- 💞️ I’m looking to collaborate on graphical and code-based projects or Web Apps
 - 📫 Reach me at lorenzo.gardner95@gmail.com
 
 - 🤣 Everything is not always #000000 and #FFFFFF
