@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lorenzo~!
 - 👀 I’m interested in software and web development, travel, and video games
-- 🌱 I’m currently proficient in Javascript/CSS6/HTML5, React, Express, and SQL
+- 🌱 I’m currently proficient in Javascript / CSS6 / HTML5, React, Express, and SQL
 - 💞️ I’m looking to collaborate on graphical and code-based projects or Web Apps
 - 📫 Reach me at lorenzo.gardner95@gmail.com
 
