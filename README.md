@@ -1,13 +1,9 @@
 - 👋 Hi, I’m Lorenzo~!
 - 👀 I’m interested in software and web development, travel, and video games
-- 🌱 I’m currently proficient in Javascript / CSS6 / HTML5, React, Express, and SQL
+- 🌱 I’m proficient in Javascript, Typescript, CSS6, HTML5, React, Express, Python, C# and SQL
 - 💞️ I’m looking to collaborate on graphical and code-based projects or Web Apps
 - 📫 Reach me at lorenzo.gardner95@gmail.com
-
 - 🤣 Everything is not always #000000 and #FFFFFF
--  English, Spanish, German, Italian
 
-<!---
-lorenzyme/lorenzyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [![Top Langs](https://github-readme-stats.vercel.app/api?username=lorenzyme&theme=algolia&show_icons=true)](https://github.com/lorenzyme)
+[![Lorenzyme's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lorenzyme&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lorenzyme)
