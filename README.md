@@ -5,5 +5,5 @@
 - 📫 Reach me at lorenzo.gardner95@gmail.com
 - 🤣 Everything is not always #000000 and #FFFFFF
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=lorenzyme&theme=algolia&show_icons=true)](https://github.com/lorenzyme)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=lorenzyme&theme=algolia&show_icons=true)](https://github.com/lorenzyme)
 [![Lorenzyme's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lorenzyme&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lorenzyme)
