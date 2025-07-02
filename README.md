@@ -4,16 +4,17 @@
 
 I'm a passionate **full-stack developer** who loves building engaging, memorable experiences for people.  
 
-- 👀 I’m super into digital art, tennis, hiking, music, traveling, and video games  
-- 💞 I’m open to collaborating on graphical or code-based projects  
+- 💞 I’m super into digital art, tennis, hiking, music, traveling, and video games  
+- 👀 I’m open to collaborating on graphical or code-based projects  
 - 📬 Reach me at [lorenzo.gardner95@gmail.com](mailto:lorenzo.gardner95@gmail.com)  
 - 🎨 Everything is not always `#000000` and `#FFFFFF`  
 
 ---
 
-## 🧠 Tools & Tech I Love
+## 🌱 Tech Stack
 
 <div align="center"><strong>🖥️ Frontend</strong></div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -25,6 +26,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 <div align="center"><strong>⚙️ Backend & Databases</strong></div>
 
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -34,6 +36,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 </div>
 
 <div align="center"><strong>🎮 Game Development</strong></div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
