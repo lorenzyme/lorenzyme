@@ -22,7 +22,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
-
+<br>
 <div align="center"><strong>⚙️ Backend & Databases</strong></div>
 <br>
 <div align="center">
