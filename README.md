@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Lorenzo~!
 
-I'm a passionate **full-stack developer** who loves building engaging memorable experiences for people.  
+I'm a passionate **full-stack developer** who loves building engaging, memorable experiences for people.  
 
-- 👀 I’m super into digital art, tennis, hiking, music, traveling, and video games
-- 💞 I’m open to collaborating on graphical or code-based projects
-- 📬 Reach me at [lorenzo.gardner95@gmail.com](mailto:lorenzo.gardner95@gmail.com)
-- 🎨 Everything is not always `#000000` and `#FFFFFF`
+- 👀 I’m super into digital art, tennis, hiking, music, traveling, and video games  
+- 💞 I’m open to collaborating on graphical or code-based projects  
+- 📬 Reach me at [lorenzo.gardner95@gmail.com](mailto:lorenzo.gardner95@gmail.com)  
+- 🎨 Everything is not always `#000000` and `#FFFFFF`  
 
 ---
 
@@ -17,22 +17,22 @@ I'm a passionate **full-stack developer** who loves building engaging memorable 
 |---|---|---|
 | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B) |
 | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) |
-| ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) | | |
+| ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ---
 
 ## 📌 Pinned Projects
 
-- [**My Portfolio**](https://github.com/yourusername/portfolio): Built using React, TypeScript, and Framer Motion
-- [**Unity Platformer Demo**](https://github.com/yourusername/game-dev-demo): A 2D platformer prototype in Unity (C#)
-- [**Flask REST API**](https://github.com/yourusername/api-demo): Python + Flask + PostgreSQL backend template
+- [**My Portfolio**](https://github.com/yourusername/portfolio): Built using React, TypeScript, and Framer Motion  
+- [**Unity Platformer Demo**](https://github.com/yourusername/game-dev-demo): A 2D platformer prototype in Unity (C#)  
+- [**Flask REST API**](https://github.com/yourusername/api-demo): Python + Flask + PostgreSQL backend template  
 
 ---
 
