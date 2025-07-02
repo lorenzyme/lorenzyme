@@ -13,7 +13,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 ## 🧠 Tools & Tech I Love
 
-### 🖥️ Frontend
+<div align="center"><strong>🖥️ Frontend</strong></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -23,7 +23,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-### ⚙️ Backend & Databases
+<div align="center"><strong>⚙️ Backend & Databases</strong></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B"/>
@@ -33,11 +33,13 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
-### 🎮 Game Development
+<div align="center"><strong>🎮 Game Development</strong></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>
 </div>
 
 ---
@@ -47,7 +49,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clip%20Studio%20Paint-000000?style=for-the-badge&logo=clipstudiopaint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 
