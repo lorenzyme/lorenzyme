@@ -40,6 +40,8 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
+---
+
 ## 🎨 Design Stack
 
 <div align="center">
@@ -48,12 +50,13 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzyme&layout=compact&theme=dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzyme&show_icons=true&theme=dark)
 
 ---
 
