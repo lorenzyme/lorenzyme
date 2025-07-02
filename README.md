@@ -1,4 +1,4 @@
-![Banner]([https://your-selected-banner-url.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.geniusyield.co%2Fcss%2Fimg%2Fmmb-page%2FGithubBannerBottomHighlight.png&f=1&nofb=1&ipt=2a7c2c91da10d520d880b605b19a752e92937946fdc79bec61aab5c1871faa05))
+![Banner]([./banner))
 
 # 👋 Hi, I'm Lorenzo~!
 
