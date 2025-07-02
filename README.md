@@ -14,8 +14,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 ## 🌱 Tech Stack
 
 <div align="center"><strong>🖥️ Frontend</strong></div>
-
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -25,8 +24,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 </div>
 
 <div align="center"><strong>⚙️ Backend & Databases</strong></div>
-
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -36,8 +34,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 </div>
 
 <div align="center"><strong>🎮 Game Development</strong></div>
-
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
