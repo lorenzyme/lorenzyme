@@ -2,10 +2,9 @@
 
 # 👋 Hi, I'm Lorenzo~!
 
-I'm a passionate **full-stack developer** who loves building engaging web experiences and tinkering with game development.  
-I enjoy combining design, logic, and technology to create impactful solutions.
+I'm a passionate **full-stack developer** who loves building engaging memorable experiences for people.  
 
-- 👀 I’m into software, travel, and video games
+- 👀 I’m super into digital art, tennis, hiking, music, traveling, and video games
 - 💞 I’m open to collaborating on graphical or code-based projects
 - 📬 Reach me at [lorenzo.gardner95@gmail.com](mailto:lorenzo.gardner95@gmail.com)
 - 🎨 Everything is not always `#000000` and `#FFFFFF`
