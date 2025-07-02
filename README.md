@@ -66,7 +66,9 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 - [**My Portfolio**](#): Built using React, TypeScript, and Framer Motion  
 - [**Unity Platformer Demo**](#): A 2D platformer prototype in Unity (C#)  
-- [**Flask REST API**](#): Python + Flask + PostgreSQL backend template  
+- [**Flask REST API**](#): Python + Flask + PostgreSQL backend template
+
+- [![GitHub Streak](https://streak-stats.demolab.com?user=lorenzyme&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
