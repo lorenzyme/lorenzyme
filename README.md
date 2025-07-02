@@ -59,7 +59,8 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzyme&layout=compact&theme=dark)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzyme&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lorenzyme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lorenzyme&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 🌟 Featured Work
