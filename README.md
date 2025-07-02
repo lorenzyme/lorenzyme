@@ -11,19 +11,19 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 ---
 
-## 🧠 Languages & Frameworks I Use
+## 🧠 Tools & Tech I Love
 
-#### 🖥️ Frontend
+### 🖥️ Frontend
 
 | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
-#### ⚙️ Backend & Databases
+### ⚙️ Backend & Databases
 
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 
-#### 🎮 Game Dev & Systems
+### 🎮 Game Dev & Systems
 
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) |
 
@@ -36,14 +36,16 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
 
 ---
 
-## 📌 Pinned Projects
+## 🌟 Featured Work
 
-- [**My Portfolio**](https://github.com/yourusername/portfolio): Built using React, TypeScript, and Framer Motion  
-- [**Unity Platformer Demo**](https://github.com/yourusername/game-dev-demo): A 2D platformer prototype in Unity (C#)  
-- [**Flask REST API**](https://github.com/yourusername/api-demo): Python + Flask + PostgreSQL backend template  
+- [**My Portfolio**](#): Built using React, TypeScript, and Framer Motion  
+- [**Unity Platformer Demo**](#): A 2D platformer prototype in Unity (C#)  
+- [**Flask REST API**](#): Python + Flask + PostgreSQL backend template  
 
 ---
 
 ## 📫 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.gardner95@gmail.com)
+<a href="mailto:lorenzo.gardner95@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+</a>
