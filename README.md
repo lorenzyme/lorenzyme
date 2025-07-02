@@ -32,7 +32,7 @@ I'm a passionate **full-stack developer** who loves building engaging, memorable
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
-
+<br>
 <div align="center"><strong>🎮 Game Development</strong></div>
 <br>
 <div align="center">
