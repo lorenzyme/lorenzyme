@@ -1,4 +1,4 @@
-![Banner]([./banner.png))
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Lorenzo~!
 
